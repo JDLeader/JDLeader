@@ -4,6 +4,7 @@
   <a href="https://github.com/JDLeader">
     <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=JDLeader&theme=highcontrast&locale=pt_BR&mode=weekly&dates=EB5454&stroke=808080&border=808080&background=334155&fire=EB5454" alt="GitHub JDLeader" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JDLeader&layout=compact&langs_count=6&theme=tokyonight"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
   </a>
 </div>
 
