@@ -12,12 +12,13 @@
   <br>
    <img src="https://github-readme-activity-graph.vercel.app/graph?username=JDLeader&custom_title=Joao Daniel's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
 <br>
-  </div>-->
+  </div>
     <br>
     <tr>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JDLeader&theme=highcontrast&hide_border=true&background=334155&dates=EB5454" alt="Most Commit Language">
-    </tr>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JDLeader&theme=highcontrast&hide_border=true&background=334155">
+    </tr>-->
+    <br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JDLeader&theme=transparent&hide_border=true&background=334155">
   </br>
 </div>
 
