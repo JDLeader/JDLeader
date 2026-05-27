@@ -8,9 +8,11 @@
   <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
 </picture>
   </a>-->
+  <div align="center">
   <br>
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JDLeader&custom_title=João Daniel's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JDLeader&custom_title=Joao Daniel's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
 <br>
+  </div>
     <tr>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JDLeader&theme=highcontrast&hide_border=true&background=334155" alt="Most Commit Language">
     </tr>
