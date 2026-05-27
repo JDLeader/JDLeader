@@ -2,7 +2,7 @@
 
 <div>
   <a href="https://github.com/JDLeader">
-    <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=JDLeader&theme=highcontrast&locale=pt_BR&mode=weekly&dates=EB5454&stroke=808080&border=808080&BACKGROUN=637B8B" alt="GitHub JDLeader" />
+    <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=JDLeader&theme=highcontrast&locale=pt_BR&mode=weekly&dates=EB5454&stroke=808080&border=808080&background=637B8B" alt="GitHub JDLeader" />
   </a>
 </div>
 
