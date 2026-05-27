@@ -2,7 +2,6 @@
 
 <div>
   <a href="https://github.com/JDLeader">
-    [![GitHub Streak](https://streak-stats.demolab.com/?user=JDleader)](https://git.io/streak-stats)
     <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=JDLeader&theme=highcontrast&locale=pt_BR&mode=weekly&dates=EB5454&stroke=808080&border=808080&background=334155&fire=EB5454" alt="GitHub JDLeader" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JDLeader&layout=compact&langs_count=6&theme=tokyonight"/>
   </a>
@@ -24,4 +23,7 @@
  <a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "joaodaniel.buenodemello@gmil.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jd-mello/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://git.io/streak-stats" target="_blank" rel="noopener noreferrer">
+    <img src="https://streak-stats.demolab.com/?user=JDleader" alt="GitHub Streak" />
+</a>
 </div>
